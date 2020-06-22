@@ -1,7 +1,7 @@
 <h1 align="center">Breakout</h1>
 
 <p align="center">
-  <img width="500" height="500" src="breakout.gif">
+  <img width="350" height="350" src="breakout.gif">
 </p>
 
 [![CodeFactor](https://www.codefactor.io/repository/github/joshuacrotts/breakout/badge)](https://www.codefactor.io/repository/github/joshuacrotts/Breakout) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JoshuaCrotts/Breakout) ![GitHub repo size](https://img.shields.io/github/repo-size/JoshuaCrotts/Lock-Out-Protocol) ![GitHub contributors](https://img.shields.io/github/contributors/JoshuaCrotts/Breakout)
