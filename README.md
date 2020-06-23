@@ -4,7 +4,7 @@
   <img width="350" height="350" src="breakout.gif">
 </p>
 
-[![CodeFactor](https://www.codefactor.io/repository/github/joshuacrotts/breakout/badge)](https://www.codefactor.io/repository/github/joshuacrotts/Breakout) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JoshuaCrotts/Breakout) ![GitHub repo size](https://img.shields.io/github/repo-size/JoshuaCrotts/Lock-Out-Protocol) ![GitHub contributors](https://img.shields.io/github/contributors/JoshuaCrotts/Breakout)
+[![CodeFactor](https://www.codefactor.io/repository/github/joshuacrotts/breakout/badge)](https://www.codefactor.io/repository/github/joshuacrotts/Breakout) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JoshuaCrotts/Breakout) ![GitHub repo size](https://img.shields.io/github/repo-size/JoshuaCrotts/Breakout) ![GitHub contributors](https://img.shields.io/github/contributors/JoshuaCrotts/Breakout)
 
 Breakout is a project I developed for the Performance Task portion of my AP Computer Science Principles class. This marked the beginning of the development of my Standards library. While this game did not explicitly use an external JAR, the inner-workings of it were included in the source code for this game (at that point, I was unsure if I would continue the engine internals). This was my second significant game developed by myself. The sources and music are referenced accordingly in the source code.
 
